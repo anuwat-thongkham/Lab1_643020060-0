@@ -2,3 +2,4 @@ Anuthor: นายอนุวัฒน์ ทองคำ  รหัสนั�
 My personal quote: ไม่ยอมหยุดเดิม
 Create Secondfile.html and add note to Startfile.txt
 Create Thirdfile.log which is a git ignore file
+Semester 2/2566
