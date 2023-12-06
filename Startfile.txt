@@ -1,2 +1,4 @@
 Anuthor: นายอนุวัฒน์ ทองคำ  รหัสนักศึกษา 643020060-0
 My personal quote: ไม่ยอมหยุดเดิม
+Create Secondfile.html and add note to Startfile.txt
+Create Thirdfile.log which is a git ignore file
